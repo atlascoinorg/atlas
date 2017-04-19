@@ -1,3 +1,5 @@
+ 
+
 Atlas integration/staging tree
 ================================
 
@@ -24,14 +26,51 @@ The cryptocurrency a can not be forged and és not controlled by banks and govern
 Peer to Peer.
 With the Atlas Cryptocurrency the payments go directly to the individual or business, removing the need for a bank or building society.
 
+
 Coin Properties
 
-AlgorithmScryptTypePoWCoin nameAtlasCoin abbreviationATLASAddress letterLRPC port9068P2P port9067Block reward250 coinsBlock halving475000 blocksTotal coin supply250000000 coinsPremine percent5% Premine amount12500000 coins5% premine for bounties, giveaways, development, support and maintenance, new feature developments etc.
+Algorithm
+Scrypt
+Type
+PoW
+Coin name
+Atlas
+Coin abbreviation
+ATLAS
+Address letter
+L
+RPC port
+9068
+P2P port
+9067
+Block reward
+250 coins
+Block halving
+475000 blocks
+Total coin supply
+250000000 coins
+Premine percent
+5% 
+Premine amount
+12500000 coins
+5% premine for bounties, giveaways, development, support and maintenance, new feature developments etc.
+
+
 Advanced Properties
 
-Coinbase maturity20 blocksTarget spacing5 minutesTarget timespan60 minutesTransaction confirmations6 blocks
-Seednode 1
-45.55.83.96
+Coinbase maturity
+20 blocks
+Target spacing
+5 minutes
+Target timespan
+60 minutes
+Transaction confirmations
+6 blocks
+
+Seednode 1
+
+45.55.83.96
+
 For more information, as well as an immediately useable, binary version of
 the Atlas client software, see http://www.atlascoin.org.
 
