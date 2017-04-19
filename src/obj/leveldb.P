@@ -1,0 +1,22 @@
+obj/leveldb.o: leveldb.cpp leveldb.h serialize.h allocators.h version.h \
+ clientversion.h /tmp/Atlas/src/leveldb/include/leveldb/db.h \
+ /tmp/Atlas/src/leveldb/include/leveldb/iterator.h \
+ /tmp/Atlas/src/leveldb/include/leveldb/slice.h \
+ /tmp/Atlas/src/leveldb/include/leveldb/status.h \
+ /tmp/Atlas/src/leveldb/include/leveldb/options.h \
+ /tmp/Atlas/src/leveldb/include/leveldb/write_batch.h util.h uint256.h \
+ netbase.h compat.h /tmp/Atlas/src/leveldb/include/leveldb/env.h \
+ /tmp/Atlas/src/leveldb/include/leveldb/cache.h \
+ /tmp/Atlas/src/leveldb/include/leveldb/filter_policy.h \
+ /tmp/Atlas/src/leveldb/helpers/memenv/memenv.h
+leveldb.cpp leveldb.h serialize.h allocators.h version.h :
+ clientversion.h /tmp/Atlas/src/leveldb/include/leveldb/db.h :
+ /tmp/Atlas/src/leveldb/include/leveldb/iterator.h :
+ /tmp/Atlas/src/leveldb/include/leveldb/slice.h :
+ /tmp/Atlas/src/leveldb/include/leveldb/status.h :
+ /tmp/Atlas/src/leveldb/include/leveldb/options.h :
+ /tmp/Atlas/src/leveldb/include/leveldb/write_batch.h util.h uint256.h :
+ netbase.h compat.h /tmp/Atlas/src/leveldb/include/leveldb/env.h :
+ /tmp/Atlas/src/leveldb/include/leveldb/cache.h :
+ /tmp/Atlas/src/leveldb/include/leveldb/filter_policy.h :
+ /tmp/Atlas/src/leveldb/helpers/memenv/memenv.h :
