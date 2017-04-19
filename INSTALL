@@ -1,0 +1,9 @@
+Building Atlas
+
+See doc/readme-qt.rst for instructions on building Atlas-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Atlas.
+
+See doc/build-*.txt for instructions on building atlasd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Atlas.
